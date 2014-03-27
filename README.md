@@ -1,0 +1,7 @@
+# Brewfile
+
+## using
+
+```
+brew bundle
+```
