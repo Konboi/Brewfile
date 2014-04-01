@@ -57,3 +57,26 @@ install vim || true
 install wget || true
 install xz || true
 install zsh || true
+
+cask install slack || true
+cask install blender || true
+cask install alfred || true
+cask install limechat || true
+cask install skype || true
+cask install firefox || true
+cask install yorufukurou || true
+cask install iterm2 || true
+cask install flux || true
+cask install gyazo || true
+cask install onepassword || true
+cask install google-chrome || true
+cask install dayone || true
+cask install appcleaner || true
+cask install bettertouchtool || true
+cask install clipmenu || true
+cask install dash || true
+cask install mysqlworkbench || true
+cask install lightpaper || ture
+cask install google-japanese-ime || true
+
+cask alfred link
