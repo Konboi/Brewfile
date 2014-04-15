@@ -6,8 +6,6 @@ tap homebrew/science || true
 tap homebrew/versions || true
 tap phinze/cask || true
 
-
-install xz || true
 install pkg-config || true
 install libtasn1 || true
 install gmp || true
@@ -34,6 +32,7 @@ install imagemagick || true
 install magit || true
 install makedepend || true
 install mobile-shell || true
+install mysql || true
 install nettle || true
 install nginx || true
 install opencv || true
@@ -61,7 +60,9 @@ install zsh || true
 cask install slack || true
 cask install blender || true
 cask install alfred || true
+cask install eclipse-ide || true
 cask install limechat || true
+cask install java || true
 cask install skype || true
 cask install firefox || true
 cask install yorufukurou || true
@@ -78,5 +79,6 @@ cask install dash || true
 cask install mysqlworkbench || true
 cask install lightpaper || ture
 cask install google-japanese-ime || true
+cask install x-mirage || true
 
 cask alfred link
